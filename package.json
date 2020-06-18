@@ -11,7 +11,7 @@
     "@types/faker": "^4.1.11",
     "@types/graphql": "^14.5.0",
     "@types/uuid": "^7.0.2",
-    "apollo-server": "^2.12.0",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.12.0",
     "bcryptjs": "^2.4.3",
     "connect": "^3.7.0",
