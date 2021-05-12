@@ -34,7 +34,7 @@
     "html-pdf-node": "^1.0.5",
     "ioredis": "^4.17.3",
     "jsonwebtoken": "^8.5.1",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "pg": "^8.5.1",
     "reflect-metadata": "^0.1.13",
     "slugify": "^1.4.6",
