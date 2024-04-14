@@ -1,5 +1,7 @@
 # Impact Graph
 
+## This project has been taken over by Giveth. You can see the latest version of the [impact graph here](https://github.com/Giveth/impact-graph)
+
 ImpactQL is a GraphQL server, that enables rapid development of serverless impact project applications. It does this by taking care of the persistance of impact project data.
 
 [Installation](#installation)
